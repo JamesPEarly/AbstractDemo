@@ -1,3 +1,5 @@
+package csc241;
+
 import java.text.DecimalFormat;
 
 public class Salaried extends Employee {

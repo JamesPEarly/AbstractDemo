@@ -1,3 +1,5 @@
+package csc241;
+
 public abstract class Employee {
 
   // Instance variables
